@@ -1,67 +1,47 @@
-<h1 align="center">Hi there, I'm Ed 👋</h1>
-<h3 align="center">Full-Stack Software Engineer · 5+ years building enterprise web applications</h3>
+### Ed Soto — Software Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
+Lima, Peru. I build distributed systems and multi-platform applications.
+
+Most of my work is in .NET and Angular, but I also ship with NestJS, Flutter, and Python. I enjoy the messy parts: legacy migrations, custom API gateways, integrating systems that weren't meant to talk to each other, and putting ML models on people's phones.
 
 ---
 
-## About me
+**Stack I use most**
 
-I'm a Software Engineer, focused on building robust full-stack web applications for enterprise environments. I work end-to-end across the stack — from designing scalable backends with **.NET / C#** to crafting clean user interfaces with **Angular**.
+`.NET 8` `C#` `ASP.NET Core` `EF Core` `Dapper` `Angular 17+` `RxJS` `Signals` `NgRx` `TypeScript` `SQL Server` `Redis` `SignalR` `Hangfire`
 
-### 💼 What I do
-- Design and build **REST APIs** with ASP.NET Core and Entity Framework Core
-- Develop **Angular** front-end applications with TypeScript and reactive patterns
-- Work with **SQL Server** and relational data modeling
-- Deploy and integrate solutions on **Microsoft Azure**
-- Apply clean architecture, SOLID principles, and modern design patterns
+**Also work with**
 
-### 🛠️ Tech Stack
-**Backend:** C#, .NET 6/8, ASP.NET Core, Entity Framework Core, Web API, LINQ  
-**Frontend:** Angular, TypeScript, RxJS, HTML5, CSS3  
-**Database:** SQL Server, T-SQL, Stored Procedures  
-**Cloud & DevOps:** Microsoft Azure, Git, GitHub Actions  
-**Other:** REST APIs, JSON, Swagger/OpenAPI, Postman
+`NestJS` `Node.js` `Flutter` `Android (native)` `Electron` `WinForms` `Java` `Python` `TensorFlow / YOLO`
 
-### 🚀 Currently
-- Building full-stack projects with **.NET + Angular + Azure**
-- Deepening my expertise in **cloud-native architectures** and **microservices**
-- Open to **remote opportunities** with international teams
+**Infra**
 
-### 📫 Let's connect
-- LinkedIn: [in/ed-s-02a524210](https://www.linkedin.com/in/ed-s-02a524210/)
-- Email: edsghot@gmail.com
+`Docker` `Kubernetes (AKS)` `Terraform` `Azure` `AWS` `GitHub Actions` `Azure DevOps` `Grafana` `OpenTelemetry`
+
+**Architecture**
+
+Hexagonal, Clean Architecture, DDD, Microservices, API Gateway, micro-frontends (Module Federation).
 
 ---
 
-## 🇪🇸 Sobre mí
+**Some things I've worked on**
 
-Soy Ingeniero de Software , enfocado en construir aplicaciones web full-stack para entornos empresariales. Trabajo de extremo a extremo en toda la pila tecnológica — desde diseñar backends escalables con **.NET / C#** hasta desarrollar interfaces limpias con **Angular**.
-
-### 💼 Lo que hago
-- Diseño y construyo **APIs REST** con ASP.NET Core y Entity Framework Core
-- Desarrollo aplicaciones **Angular** con TypeScript y patrones reactivos
-- Trabajo con **SQL Server** y modelado de datos relacional
-- Despliego e integro soluciones en **Microsoft Azure**
-- Aplico clean architecture, principios SOLID y patrones de diseño modernos
-
-### 🚀 Actualmente
-- Construyendo proyectos full-stack con **.NET + Angular + Azure**
-- Profundizando en **arquitecturas cloud-native** y **microservicios**
-- Abierto a **oportunidades remotas** con equipos internacionales
+- Migrated production systems from .NET Framework 4.x and .NET Core 3.1 up to .NET 8.
+- Built a custom API Gateway in .NET that unified authentication across three separate applications (Angular front, .NET microservices behind).
+- Trained a YOLO 11 model from scratch — collected and labeled the dataset myself, trained it, and deployed it inside a Flutter app for historical artifact recognition (Qirao).
+- ERP integrations with SAP and in-house ERPs. Payment integrations with Izipay. HR integrations with BUK.
+- Several end-to-end products: gym management, sports facility booking, e-commerce with Izipay + automated email-based payment validation, real-time university bus tracker (Ubícame).
+- Currently interviewing Senior and Mid-Senior .NET candidates and mentoring devs moving into mid-level roles.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edsghot&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### Español
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsghot&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
-</p>
+Soy Ed, ingeniero de software en Lima. Trabajo principalmente con .NET y Angular, aunque también desarrollo con NestJS, Flutter y Python.
+
+Me dedico a sistemas distribuidos y aplicaciones multiplataforma: migraciones de proyectos legacy, API Gateways custom, integraciones entre sistemas que no fueron pensados para hablarse, y modelos de ML que terminan en el celular del usuario final.
+
+**Proyectos personales y propios**: Qirao (app con IA para reconocimiento de elementos históricos), Ubícame (tracking en tiempo real del bus universitario de la UNAMBA), Ghotito y otros sistemas que están abajo en pinned repos.
+
+LinkedIn: [in/ed-s-02a524210](https://www.linkedin.com/in/ed-s-02a524210/) 
+Email: edsghot@gmail.com
