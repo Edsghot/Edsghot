@@ -63,7 +63,7 @@ Conducting technical interviews for Senior and Mid-Senior `.NET` candidates · M
 <details>
 <summary><b>Versión en español</b></summary>
 
-Ingeniero de software con más de 5 años construyendo sistemas distribuidos empresariales y aplicaciones multiplataforma. Especializado en `.NET` y ecosistemas frontend modernos (`Angular` / `React` / `Next.js`), con ownership end-to-end del ciclo completo de software.
+Ingeniero de software con más de 4 años construyendo sistemas distribuidos empresariales y aplicaciones multiplataforma. Especializado en `.NET` y ecosistemas frontend modernos (`Angular` / `React` / `Next.js`), con ownership end-to-end del ciclo completo de software.
 
 **Áreas de enfoque:** modernización legacy · API gateways custom · microservicios · integración empresarial · machine learning aplicado.
 
