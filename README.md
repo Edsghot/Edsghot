@@ -4,10 +4,9 @@
 
 **Senior Software Engineer · Distributed Systems · Multi-platform Applications**
 
-[![Location](https://img.shields.io/badge/Based%20in-Lima%2C%20Peru-555555)](https://www.google.com/maps/place/Lima)
-[![Stack](https://img.shields.io/badge/Stack-.NET%20%C2%B7%20Angular%20%C2%B7%20Azure-555555)](#technologies)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-555555?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ed-s-02a524210/)
-[![Email](https://img.shields.io/badge/Contact-Email-555555?logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](#technologies)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ed-s-02a524210/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 
 </div>
 
@@ -21,15 +20,47 @@ Current focus areas include legacy system modernization, custom API gateway desi
 
 ## Technologies
 
-| Layer | Technologies |
-|---|---|
-| **Backend** | `.NET 8` · `C#` · `ASP.NET Core` · `EF Core` · `Dapper` · `SignalR` · `Hangfire` |
-| **Frontend** | `Angular 17+` · `TypeScript` · `RxJS` · `Signals` · `NgRx` · `Module Federation` |
-| **Mobile and Desktop** | `Flutter` · `Android (native)` · `Electron` · `WinForms` |
-| **Data** | `SQL Server` · `T-SQL` · `Stored Procedures` · `Redis` |
-| **Cloud and Infrastructure** | `Azure` · `AWS` · `Docker` · `Kubernetes (AKS)` · `Terraform` |
-| **DevOps and Observability** | `GitHub Actions` · `Azure DevOps` · `Grafana` · `OpenTelemetry` |
-| **Additional ecosystems** | `NestJS` · `Node.js` · `Java` · `Python` · `TensorFlow` · `YOLO` |
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)
+
+### Mobile and Desktop
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+### Data
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Cloud and Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### DevOps and Observability
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+
+### Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
 ## Architectural expertise
 
