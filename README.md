@@ -2,156 +2,78 @@
 
 # Ed Soto
 
-**Senior Software Engineer · Distributed Systems · Multi-platform Applications**
+**Senior Software Engineer · Distributed Systems · Multi-platform**
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](#technologies)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](#stack)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ed-s-02a524210/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:edsghot@gmail.com)
 
 </div>
 
 ---
 
-## Overview
+Software engineer with 5+ years building enterprise-grade distributed systems and multi-platform applications. Specialized in `.NET` and modern frontend ecosystems (`Angular` / `React` / `Next.js`), with end-to-end ownership across the full software lifecycle.
 
-Software engineer with over five years of experience designing and building enterprise-grade distributed systems, multi-platform applications, and applied machine learning solutions. Primary specialization in the `.NET` and `Angular` ecosystems, with operational experience across the full software lifecycle — from requirements analysis to production deployment, monitoring, and maintenance.
+**Focus areas:** legacy modernization · custom API gateway design · microservices · enterprise system integration · applied machine learning.
 
-Current focus areas include legacy system modernization, custom API gateway design, microservices architecture, and the integration of heterogeneous enterprise systems.
+## Stack
 
-## Technologies
-
-### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)
-
-### Mobile and Desktop
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
-### Data
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Cloud and Infrastructure
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-### DevOps and Observability
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-
-### Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
-## Architectural expertise
+<details>
+<summary>Full stack details</summary>
 
-| Domain | Areas of practice |
-|---|---|
-| **Architectural patterns** | Hexagonal Architecture · Clean Architecture · Domain-Driven Design |
-| **Distributed systems** | Microservices · API Gateway · Micro-frontends (Module Federation) |
-| **Modernization** | Legacy migrations from `.NET Framework 4.x` and `.NET Core 3.1` to `.NET 8` |
-| **Integration** | REST · SOAP · ERP integrations · Payment gateways · HR platforms |
+**Backend** — `.NET 8` · `ASP.NET Core` · `EF Core` · `Dapper` · `SignalR` · `Hangfire` · `NestJS` · `Node.js`  
+**Frontend** — `Angular 17+` · `React` · `Next.js` · `TypeScript` · `RxJS` · `Signals` · `NgRx` · `Module Federation`  
+**Mobile & Desktop** — `Flutter` · `Android (native)` · `Electron` · `WinForms`  
+**Data** — `SQL Server` · `T-SQL` · `Stored Procedures` · `Redis`  
+**Cloud & Infra** — `Azure` · `AWS` · `Docker` · `Kubernetes (AKS)` · `Terraform`  
+**DevOps & Observability** — `GitHub Actions` · `Azure DevOps` · `Grafana` · `OpenTelemetry`  
+**Architecture** — Hexagonal · Clean Architecture · DDD · Microservices · API Gateway · Module Federation  
+**Machine Learning** — `Python` · `TensorFlow` · `YOLO 11`
 
-## Selected projects
+</details>
 
-### Qirao — Computer Vision for Cultural Heritage
+## Selected work
 
-Mobile application for the recognition of historical artifacts, currently pending Ministry approval prior to release on Play Store and App Store.
+- **Qirao** — Mobile app for historical artifact recognition. Flutter + `.NET` + custom-trained YOLO 11 model. Pending Ministry approval before Play Store / App Store release.
+- **Unified Authentication System** — Custom `.NET` API Gateway consolidating three independent applications behind a single auth layer.
+- **Legacy Modernization** — Production migrations from `.NET Framework 4.x` and `.NET Core 3.1` to `.NET 8`, transitioning monoliths to Hexagonal / Clean Architecture.
+- **Enterprise Integrations** — SAP, Izipay (payments), BUK (HR), in-house ERPs. Mostly REST, some SOAP and legacy protocols.
+- **Ubícame** — Native Android app for real-time university bus tracking (UNAMBA).
 
-| Component | Details |
-|---|---|
-| **Frontend** | Flutter |
-| **Backend** | `.NET` |
-| **Machine Learning** | YOLO 11, custom-trained model |
-| **ML pipeline** | Dataset collection, image labeling, model training, on-device inference |
+## Also
 
-### Unified Authentication System
-
-Consolidation of three independent applications behind a centralized authentication layer.
-
-| Component | Details |
-|---|---|
-| **API Gateway** | Custom implementation in `.NET` |
-| **Backend** | `.NET` microservices |
-| **Frontend** | Angular |
-| **Scope** | Multi-application authentication and authorization |
-
-### Legacy Modernization
-
-Modernization of multiple production systems, including large-scale enterprise applications.
-
-| Aspect | Details |
-|---|---|
-| **Source versions** | `.NET Framework 4.x`, `.NET Core 3.1`, `.NET 6` |
-| **Target version** | `.NET 8` |
-| **Architecture transitions** | Monolithic to Hexagonal / Clean Architecture |
-
-### Enterprise Integrations
-
-Integration of payment, ERP, and HR platforms with internal enterprise systems.
-
-| Integration | Type |
-|---|---|
-| **SAP** | Bidirectional REST integration |
-| **In-house ERP systems** | Custom API integrations |
-| **Izipay** | Payment gateway integration |
-| **BUK** | HR platform integration |
-
-### Ubícame
-
-Native Android application providing real-time tracking of university bus fleets at Universidad Nacional Micaela Bastidas de Apurímac (UNAMBA).
-
-## Professional activities
-
-In addition to development work, current professional responsibilities include conducting technical interviews for Senior and Mid-Senior `.NET` candidates, and mentoring developers transitioning into mid-level engineering positions.
-
-## Contact
-
-| Channel | Link |
-|---|---|
-| **LinkedIn** | [in/ed-s-02a524210](https://www.linkedin.com/in/ed-s-02a524210/) |
-| **Email** | tu-email@ejemplo.com |
+Conducting technical interviews for Senior and Mid-Senior `.NET` candidates · Mentoring developers transitioning into mid-level roles.
 
 ---
 
 <details>
 <summary><b>Versión en español</b></summary>
 
-## Resumen
+Ingeniero de software con más de 5 años construyendo sistemas distribuidos empresariales y aplicaciones multiplataforma. Especializado en `.NET` y ecosistemas frontend modernos (`Angular` / `React` / `Next.js`), con ownership end-to-end del ciclo completo de software.
 
-Ingeniero de software con más de cinco años de experiencia diseñando y construyendo sistemas distribuidos de nivel empresarial, aplicaciones multiplataforma y soluciones de machine learning aplicado. Especialización principal en los ecosistemas de `.NET` y `Angular`, con experiencia operativa a lo largo del ciclo completo de vida del software — desde el análisis de requerimientos hasta el despliegue, monitoreo y mantenimiento en producción.
+**Áreas de enfoque:** modernización legacy · API gateways custom · microservicios · integración empresarial · machine learning aplicado.
 
-Las áreas de enfoque actual incluyen modernización de sistemas legacy, diseño de API gateways custom, arquitectura de microservicios, e integración de sistemas empresariales heterogéneos.
-
-## Proyectos destacados
-
-- **Qirao** — Aplicación móvil con IA para reconocimiento de patrimonio histórico (Flutter + `.NET` + YOLO 11)
-- **Sistema de Autenticación Unificada** — API Gateway custom en `.NET` integrando tres aplicaciones independientes
-- **Modernización Legacy** — Migraciones desde `.NET Framework 4.x` hasta `.NET 8` en sistemas en producción
+**Proyectos destacados:**
+- **Qirao** — App móvil con IA para reconocimiento de patrimonio histórico (Flutter + `.NET` + YOLO 11)
+- **Sistema de Autenticación Unificada** — API Gateway custom en `.NET` integrando tres aplicaciones
+- **Modernización Legacy** — Migraciones de `.NET Framework 4.x` a `.NET 8` en producción
 - **Integraciones Empresariales** — SAP, Izipay, BUK, ERPs propios
-- **Ubícame** — Aplicación Android nativa de tracking en tiempo real para buses universitarios de la UNAMBA
+- **Ubícame** — App Android nativa de tracking en tiempo real (UNAMBA)
 
-## Actividades profesionales adicionales
-
-Adicionalmente, realizo entrevistas técnicas para candidatos Senior y Mid-Senior en `.NET`, y dedico tiempo a mentorizar desarrolladores que avanzan hacia roles de nivel medio.
+Adicionalmente: entrevistas técnicas a candidatos Senior y Mid-Senior en `.NET`, y mentoría a desarrolladores.
 
 </details>
