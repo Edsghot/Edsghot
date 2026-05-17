@@ -11,9 +11,9 @@
 
 ---
 
-## 🇬🇧 About me
+## About me
 
-I'm a Software Engineer based in Lima, Peru, focused on building robust full-stack web applications for enterprise environments. I work end-to-end across the stack — from designing scalable backends with **.NET / C#** to crafting clean user interfaces with **Angular**.
+I'm a Software Engineer, focused on building robust full-stack web applications for enterprise environments. I work end-to-end across the stack — from designing scalable backends with **.NET / C#** to crafting clean user interfaces with **Angular**.
 
 ### 💼 What I do
 - Design and build **REST APIs** with ASP.NET Core and Entity Framework Core
@@ -36,13 +36,13 @@ I'm a Software Engineer based in Lima, Peru, focused on building robust full-sta
 
 ### 📫 Let's connect
 - LinkedIn: [in/ed-s-02a524210](https://www.linkedin.com/in/ed-s-02a524210/)
-- Email: tu-email@ejemplo.com
+- Email: edsghot@gmail.com
 
 ---
 
 ## 🇪🇸 Sobre mí
 
-Soy Ingeniero de Software basado en Lima, Perú, enfocado en construir aplicaciones web full-stack para entornos empresariales. Trabajo de extremo a extremo en toda la pila tecnológica — desde diseñar backends escalables con **.NET / C#** hasta desarrollar interfaces limpias con **Angular**.
+Soy Ingeniero de Software , enfocado en construir aplicaciones web full-stack para entornos empresariales. Trabajo de extremo a extremo en toda la pila tecnológica — desde diseñar backends escalables con **.NET / C#** hasta desarrollar interfaces limpias con **Angular**.
 
 ### 💼 Lo que hago
 - Diseño y construyo **APIs REST** con ASP.NET Core y Entity Framework Core
